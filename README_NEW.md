@@ -20,7 +20,10 @@ I'm Cesar, Fullstack developer from <img src="https://image.flaticon.com/icons/s
 <img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/>
 
 ## About Me:  :alien:
-I'm loved to understanding how things work and how to improve them. Automate and facilitate processes and procedures, this is the focus.
+I'm loved to understanding how things work and how to improve them.  
+Automate and facilitate processes and procedures, this is the focus.
 
 ## How to reach me
 :handshake: Connect with me on [Linkedin](https://www.linkedin.com/in/cesarvieira-programador/)
+
+[![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=cesarvieira&hide=issues&count_private=true&show_icons=true)](https://github.com/cesarvieira/cesarvieira)
