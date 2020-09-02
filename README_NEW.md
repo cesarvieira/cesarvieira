@@ -46,3 +46,7 @@ TypeScript   1 hr            █▓░░░░░░░░░░░░░░░
 YAML         57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 ```
 <!--END_SECTION:waka-->
+
+### Spotify Playing 🎧
+[![Spotify](https://spotify-now-playing.cesarvieira.vercel.app/api/spotify)](https://open.spotify.com/user/22wy4x6sczc4gbqqeih752rla)
+
