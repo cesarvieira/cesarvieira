@@ -5,6 +5,10 @@ I'm Cesar, Fullstack developer from <img src="https://image.flaticon.com/icons/s
 ![GitHub last commit](https://img.shields.io/github/last-commit/cesarvieira/cesarvieira)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cesarvieira.visitor-badge)
 
+## About Me:  :alien:
+I'm loved to understanding how things work and how to improve them. Working with code for the last 15 years.  
+Automate and facilitate processes and procedures, this is the focus.
+
 ### Things I code with
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -19,10 +23,6 @@ I'm Cesar, Fullstack developer from <img src="https://image.flaticon.com/icons/s
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/>
-
-## About Me:  :alien:
-I'm loved to understanding how things work and how to improve them.  
-Automate and facilitate processes and procedures, this is the focus.
 
 ## How to reach me
 :handshake: Connect with me on [Linkedin](https://www.linkedin.com/in/cesarvieira-programador/)
