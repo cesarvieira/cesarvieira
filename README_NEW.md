@@ -1,7 +1,8 @@
-# Hey, nice to see you  <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
+# Hey, nice to see you  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 
 Welcome to my page!
 I'm Cesar, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> **São Paulo, Brazil**.  
+![GitHub last commit](https://img.shields.io/github/last-commit/cesarvieira/cesarvieira)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cesarvieira.visitor-badge)
 
 ### Things I code with
@@ -26,9 +27,10 @@ Automate and facilitate processes and procedures, this is the focus.
 ## How to reach me
 :handshake: Connect with me on [Linkedin](https://www.linkedin.com/in/cesarvieira-programador/)
 
+## Stats
 [![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=cesarvieira&hide=issues&count_private=true&show_icons=true)](https://github.com/cesarvieira/cesarvieira)
 
-📊 **Weekly development breakdown**
+📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
 PHP          5 hrs 13 mins   █████████▒░░░░░░░░░░░░░░░   37.18 % 
