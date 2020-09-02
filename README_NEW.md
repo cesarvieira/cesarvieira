@@ -3,15 +3,18 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cesarvieira.visitor-badge)
 
 Welcome to my page!
-I'm Cesar, a Husband, Father and Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> **São Paulo, Brazil**.  
+I'm Cesar, a Husband, Father and Fullstack developer from **São Paulo, Brazil** <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/>  
+
+<img align="right" alt="GIF" src="https://github.com/cesarvieira/cesarvieira/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## About Me:  :alien:
 I love to understand how things work and how to improve them. Working with code for the last 15 years.  
+I like to learn and talk about everything, if it's something I don't know, I'll be happy to learn.  
 Automate and facilitate processes and procedures, this is the focus.
 
 <ul>
-<li>🧐 Learning about <strong>serverless architectures</strong>.</li>
-<li>💬 Ping me about <strong>PHP, Magento, Laravel, security, and cloud stuff</strong>.</li>
+<li>🧐 Learning about: <strong>serverless architectures</strong>.</li>
+<li>💬 Ping me about: <strong>PHP, Magento, Laravel, security, and cloud stuff</strong>.</li>
 <li>🎉 Fun Fact: I'm a Atari lover 🕹️ </li>
 </ul>
 
@@ -31,7 +34,8 @@ Automate and facilitate processes and procedures, this is the focus.
 <img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/>
 
 ## How to reach me
-:handshake: Connect with me on [Linkedin](https://www.linkedin.com/in/cesarvieira-programador/)
+:handshake: Connect with me on [Linkedin](https://www.linkedin.com/in/cesarvieira-programador/)  
+:zap: Message me at [WhatsApp](https://wa.me/5511961206260)
 
 ## Stats
 [![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=cesarvieira&hide=issues,stars&count_private=true&show_icons=true)](https://github.com/cesarvieira/cesarvieira)
