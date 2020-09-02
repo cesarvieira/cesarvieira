@@ -28,6 +28,13 @@ Automate and facilitate processes and procedures, this is the focus.
 
 [![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=cesarvieira&hide=issues&count_private=true&show_icons=true)](https://github.com/cesarvieira/cesarvieira)
 
-
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+```text
+PHP          5 hrs 13 mins   █████████▒░░░░░░░░░░░░░░░   37.18 % 
+Other        2 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+HTML         1 hr 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+TypeScript   1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+YAML         57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+```
 <!--END_SECTION:waka-->
