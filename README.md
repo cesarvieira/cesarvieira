@@ -17,4 +17,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+```text
+PHP          5 hrs 13 mins   █████████▒░░░░░░░░░░░░░░░   37.18 % 
+Other        2 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+HTML         1 hr 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+TypeScript   1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+YAML         57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+```
 <!--END_SECTION:waka-->
