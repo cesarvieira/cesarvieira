@@ -1,13 +1,19 @@
 # Hey, nice to see you  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
-
-Welcome to my page!
-I'm Cesar, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> **São Paulo, Brazil**.  
 ![GitHub last commit](https://img.shields.io/github/last-commit/cesarvieira/cesarvieira)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cesarvieira.visitor-badge)
 
+Welcome to my page!
+I'm Cesar, a Husband, Father and Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> **São Paulo, Brazil**.  
+
 ## About Me:  :alien:
-I'm loved to understanding how things work and how to improve them. Working with code for the last 15 years.  
+I love to understand how things work and how to improve them. Working with code for the last 15 years.  
 Automate and facilitate processes and procedures, this is the focus.
+
+<ul>
+<li>🧐 Learning about <strong>serverless architectures</strong>.</li>
+<li>💬 Ping me about <strong>PHP, Magento, Laravel, security, and cloud stuff</strong>.</li>
+<li>🎉 Fun Fact: I'm a Atari lover 🕹️ </li>
+</ul>
 
 ### Things I code with
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
