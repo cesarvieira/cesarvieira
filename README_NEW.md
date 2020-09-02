@@ -27,3 +27,7 @@ Automate and facilitate processes and procedures, this is the focus.
 :handshake: Connect with me on [Linkedin](https://www.linkedin.com/in/cesarvieira-programador/)
 
 [![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=cesarvieira&hide=issues&count_private=true&show_icons=true)](https://github.com/cesarvieira/cesarvieira)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
