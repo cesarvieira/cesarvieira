@@ -16,7 +16,7 @@ Automate and facilitate processes and procedures, this is the focus.
 <ul>
 <li>🧐 Learning about: <strong>serverless architectures</strong>.</li>
 <li>💬 Ping me about: <strong>PHP, Magento, Laravel, security, and cloud stuff</strong>.</li>
-<li>🎉 Fun Fact: I'm a Atari lover 🕹️ </li>
+<li>🎉 Fun Fact: <strong>I'm a Atari lover</strong> 🕹️ </li>
 </ul>
 
 ### Things I code with
