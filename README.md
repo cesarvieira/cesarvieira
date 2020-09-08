@@ -1,5 +1,4 @@
 # Hey, nice to see you  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
-![GitHub last commit](https://img.shields.io/github/last-commit/cesarvieira/cesarvieira)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cesarvieira.visitor-badge)
 
 Welcome to my page!
