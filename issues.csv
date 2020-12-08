@@ -1,0 +1,200 @@
+#,Assignee,Closed,Faturado,Subject,Project,Due date,Estimated time,Tracker,Status
+8432,"","",No,Home leiloar.online,Quero Leiloar,11/12/2020,1.50,Melhoria,Planejado
+8431,Cesar Vieira,"",Yes,Fatura Correios + Conciliação_Elo7 - IMPORTAR,Controle Postal,11/12/2020,0.50,Tarefa,Planejado
+8430,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'duelu@outlook.com' for key 'app__users.app__users_email_unique' (SQL: insert into `app__users` (`name`, `email`, `password`, `c",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8428,"","",Yes,Fatura correios + Conciliação - Total Express (IMPORTAR),Controle Postal,11/12/2020,0.50,Tarefa,Planejado
+8427,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'janiceortiz@hotmail.com' for key 'app__users.app__users_email_unique' (SQL: insert into `app__users` (`name`, `email`, `passwor",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8426,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'janiceortiz@hotmail.com' for key 'app__users.app__users_email_unique' (SQL: insert into `app__users` (`name`, `email`, `passwor",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8425,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'janiceortiz@hotmail.com' for key 'app__users.app__users_email_unique' (SQL: insert into `app__users` (`name`, `email`, `passwor",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8424,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'nilzagdsantos@gmail.com' for key 'app__users.app__users_email_unique' (SQL: insert into `app__users` (`name`, `email`, `passwor",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8423,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'claudiaogata@globo.com' for key 'app__users.app__users_email_unique' (SQL: insert into `app__users` (`name`, `email`, `password",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8422,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'claudiaogata@globo.com' for key 'app__users.app__users_email_unique' (SQL: insert into `app__users` (`name`, `email`, `password",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8421,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Raquelolivieri@gmail.com' for key 'app__users.app__users_email_unique' (SQL: insert into `app__users` (`name`, `email`, `passwo",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8420,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'helmafirmino15@gmail.com' for key 'app__users.app__users_email_unique' (SQL: insert into `app__users` (`name`, `email`, `passwo",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8419,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'helmafirmino15@gmail.com' for key 'app__users.app__users_email_unique' (SQL: insert into `app__users` (`name`, `email`, `passwo",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8418,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'helmafirmino15@gmail.com' for key 'app__users.app__users_email_unique' (SQL: insert into `app__users` (`name`, `email`, `passwo",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8417,"","",No,FOLLOW UP NÃO CARREGA,ERP Efiltros,11/12/2020,0.50,Correção,Planejado
+8416,"","","",[laravel-production] Illuminate\Database\QueryException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'queroleiloar.app__sms_validation' doesn't exist (SQL: select * from `app__sms_validation` where `app__sms_validation`.`user_id` = 8fcae4e0-,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8415,"","","",[laravel-production] Illuminate\Database\QueryException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'queroleiloar.app__sms_validation' doesn't exist (SQL: select * from `app__sms_validation` where `app__sms_validation`.`user_id` = b637ce50-,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8414,"","","",[laravel-staging] E_NOTICE: Trying to get property 'script' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8413,"","","","[laravel-staging] Symfony\Component\HttpFoundation\Exception\SuspiciousOperationException: Invalid Host ""*.beta.queroleiloar.com"".",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8412,"","","",[laravel-production] Illuminate\Auth\Access\AuthorizationException: This action is unauthorized.,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8409,"","","",[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '240.00-47b6c6df-2da6-11eb-9d0d-a2da84708872' for key 'leilao__lances.valor_peca_id' (SQL: insert into `leilao__lances` (`valor`,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8408,"","","",[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '450.00-28efd820-2a76-11eb-98c5-ad2d39a8ef14' for key 'leilao__lances.valor_peca_id' (SQL: insert into `leilao__lances` (`valor`,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8407,"","",No,Verificar problema com imagens em lotes copiados.,Quero Leiloar,11/12/2020,0.50,Correção,Planejado
+8406,"","",No,Adicionar cadastro de leiloeiro (somente administradores podem cadastrar),Quero Leiloar,11/12/2020,1.00,Melhoria,Planejado
+8405,"","",Yes,Suporte Mensal Quero Leiloar - December/2020,Quero Leiloar,31/12/2020,18.75,Contrato,Andamento
+8404,Cesar Vieira,"",Yes,Processamento mensal WebMotors Dezembro/2020,ALD SISVeículos,11/12/2020,3.50,Tarefa,Planejado
+8403,"","",No,Plaufic: Suporte Mensal December/2020,Suporte,31/12/2020,8.00,Contrato,Andamento
+8402,"","",Yes,Suporte Mensal acasadoartista.com.br - Dezembro/2020,Visitex,31/12/2020,5.25,Contrato,Andamento
+8401,"","","",[laravel-staging] ErrorException: Trying to get property 'url' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8399,"","","","[vue-production] SecurityError: Blocked a frame with origin ""https://www.casavidalleiloes.com.br"" from accessing a cross-origin frame.",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8397,Cesar Vieira,08/12/2020 03:36 PM,"",[laravel-production] ErrorException: Undefined offset: 0,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+8395,Cesar Vieira,08/12/2020 03:49 PM,"",[laravel-production] ErrorException: Trying to get property 'dias' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+8394,"","","",[laravel-production] Error: Class 'Artesaos\SEOTools\Facades\SEOMeta' not found,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8393,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'b2d6b490-2db4-11eb-bf45-51388d12326f' for key 'leilao__arremates.peca_id' (SQL: insert into `leilao__arremates` (`lance_id`, `p",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8392,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ff61cca0-29c9-11eb-85cf-6f6857dcbd33' for key 'leilao__arremates.peca_id' (SQL: insert into `leilao__arremates` (`lance_id`, `p",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8387,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '51.00-1f5d6e70-1a2d-11eb-8c41-099a5df32ffc' for key 'leilao__lances.valor_peca_id' (SQL: insert into `leilao__lances` (`valor`,",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8386,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '82.00-03a6f170-1a2d-11eb-97b6-1b238d2da59e' for key 'leilao__lances.valor_peca_id' (SQL: insert into `leilao__lances` (`valor`,",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8377,"","","","[vue-production] SecurityError: Blocked a frame with origin ""https://leiloar.online"" from accessing a cross-origin frame.",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8368,Cesar Vieira,08/12/2020 03:44 PM,"",[laravel-production] E_NOTICE: Undefined variable: tenant,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+8367,"","","","[laravel-production] Symfony\Component\HttpFoundation\Exception\SuspiciousOperationException: Invalid Host ""*.queroleiloar.com"".",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8366,"","","",[vue-production] TypeError: Cannot read property 'toString' of null,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8364,"","","",[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '240.00-aea0aee0-2047-11eb-993b-53f5d6bbec16' for key 'leilao__lances.valor_peca_id' (SQL: insert into `leilao__lances` (`valor`,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8361,"","",No,Criar string para utilizar dados bancários da ficha do leilão,Quero Leiloar,11/12/2020,0.50,Melhoria,Planejado
+8360,"","","","[laravel-staging] Illuminate\Database\QueryException: SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'app__roles' already exists (SQL: create table `app__roles` (`id` char(36) not null, `name` varchar(191) not null, `guard_name` varchar(19",ERP Efiltros,11/12/2020,0.50,Bug,Planejado
+8354,"","","",[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'f47c4860-f433-11ea-b122-dbc70084c260-81414c40-9ba2-11ea-934a-93e' for key 'app__companies_users.app__companies_users_company_id,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8353,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`queroleiloar`.`peca__vigia`, CONSTRAINT `peca__vigia_peca_id_foreign` FOREIGN",Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8352,"","",No,LINK PARA CADASTRO DO CLIENTE,Quero Leiloar,"",0.50,Melhoria,Espera
+8348,Cesar Vieira,"",No,REMOVER AUTOMATICAMENTE VENDEDORES JOSE CARLOS E MAURICIO,ERP Efiltros,11/12/2020,0.50,Correção,Andamento
+8346,"","","",[laravel-production] E_NOTICE: unserialize(): Error at offset 0 of 444 bytes,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8337,"","","",[vue-production] TypeError: Cannot set property 'scrollTop' of undefined,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+8335,Cesar Vieira,"",No,FINANCEIRO: Lançamentos,Controle Empresarial,11/12/2020,4.00,Melhoria,Andamento
+8332,"","","",[laravel-production] Illuminate\Contracts\Filesystem\FileNotFoundException: production/bertoncinicondo/peca/18221-oculos-de-sol-ray-ban-modelo-wayfarer-do/wSkk32Yx1jdslqBQRxvXNLq1OAGHozcYhDYYvU6L.jpeg,Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8318,"","",,"Status ""Cancelado"" não aparece no Recibo Comitente",Quero Leiloar,11/12/2020,0.50,Correção,Planejado
+8317,"","","",[laravel-production] shutdown: Trying to get property 'script' of non-object,Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8316,"","","",[laravel-production] BadMethodCallException: Call to undefined method App\Models\Venda\Followup::cotacao.status_tipo(),ERP Efiltros,06/11/2020,0.50,Bug,Planejado
+8312,"","","",[laravel-production] shutdown: Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes),Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8311,"","","",[laravel-production] Symfony\Component\ErrorHandler\Error\FatalError: Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes),Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8310,"","","",[vue-production] ChunkLoadError: Loading chunk 14 failed. (error: https://maiarosa.com.br/assets/painel/js/14.2ef3866de9abd490f1b3.js),Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8305,"","",,ERRO NA PÁGINA,Quero Leiloar,11/12/2020,0.50,Correção,Planejado
+8303,Cesar Vieira,"",No,PREVISTO X REALIZADO,ERP Efiltros,11/12/2020,0.50,Correção,Andamento
+8302,"","",,DigitalOcean monitoring triggered: Disk Utilization is running high - srv8.controlepostal.com.br,01 Diversos,11/12/2020,"",Correção,Planejado
+8301,"","",,AGRUPAR O OS LEILÕES,Quero Leiloar,11/12/2020,0.50,Correção,Planejado
+8300,"","","",[vue-production] ChunkLoadError: Loading chunk 14 failed. (error: https://maiarosa.com.br/assets/painel/js/14.264f267f1a7a59acf847.js),Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8299,Cesar Vieira,"",No,Algumas páginas com conteúdo desconfigurado,A Casa do Artista,11/12/2020,0.50,Correção,Planejado
+8297,"","","",[vue-production] TypeError: Cannot read property '_avast_submit' of undefined,Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8296,"","","",[laravel-production] shutdown: Maximum number of allowable file uploads has been exceeded,Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8295,"","","",[laravel-production] Illuminate\Contracts\Filesystem\FileNotFoundException: 1,Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8289,"","","",[laravel-staging] Illuminate\Http\Exceptions\HttpResponseException: ,Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8287,"","","",[vue-production] TypeError: Cannot read property 'peso_bruto' of undefined,ERP Efiltros,06/11/2020,0.50,Bug,Planejado
+8286,"","","",[laravel-production] E_NOTICE: PDO::prepare(): send of 65 bytes failed with errno=32 Broken pipe,Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8285,"","","",[laravel-production] Illuminate\Database\QueryException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unlock_at' in 'where clause' (SQL: update `app__bloqueios` set `deleted_at` = 2020-10-16 12:17:01 where `unlock_at` <= 2020-10-16 12:17:01),Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8283,"","","",[vue-production] TypeError: Cannot read property 'status' of undefined,Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8282,"","","",[laravel-staging] Facade\Ignition\Exceptions\ViewException: Undefined variable: tenant (View: /var/www/html/resources/views_tenant/default/cms/plataforma.blade.php),Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8281,"","","",[vue-production] TypeError: Cannot read property 'push' of undefined,ERP Efiltros,06/11/2020,0.50,Bug,Planejado
+8277,"","","","[laravel-staging] E_USER_DEPRECATED: Since symfony/http-foundation 5.1: The ""Symfony\Component\HttpFoundation\Response::create()"" method is deprecated, use ""new Symfony\Component\HttpFoundation\Response()"" instead.",Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8276,"","","",[laravel-staging] ErrorException: file_put_contents(/var/www/html/storage/framework/cache/data/be/2f/be2f6bdbbe78ab94f874fb60269cd6219a112a84): failed to open stream: No such file or directory,Quero Leiloar,06/11/2020,0.50,Bug,Planejado
+8273,"","",,CONTAR TODOS OS LEILÕES DO SITE.,Quero Leiloar,11/12/2020,0.50,Correção,Planejado
+8266,"","","",[laravel-production] E_NOTICE: PDO::prepare(): send of 75 bytes failed with errno=32 Broken pipe,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8264,"","","",[vue-production] TypeError: undefined is not an object (evaluating 'e.response.status'),Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8258,"","","",[laravel-production] ErrorException: Undefined index: centro_custo_id,ERP Efiltros,16/10/2020,0.50,Bug,Planejado
+8256,Cesar Vieira,"",Yes,Erros durante rastreio,Botnet Java,11/12/2020,1.50,Correção,Planejado
+8247,Cesar Vieira,"",Yes,varios cliente reclamando que da tela branco ao ir para Pagseguro ou erro 404,SoftwareShop,11/12/2020,0.50,Correção,Andamento
+8245,"","","",[laravel-production] ErrorException: Undefined variable: ficha_id,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8243,"","","",[laravel-production] GuzzleHttp\Exception\ConnectException: cURL error 28: Operation timed out after 10001 milliseconds with 0 bytes received (see https://curl.haxx.se/libcurl/c/libcurl-errors.html),Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8241,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction (SQL: insert into `venda__pedido_itens` (`pedido_id`, `produto_id`, `quantidade`, `val",ERP Efiltros,16/10/2020,0.50,Bug,Planejado
+8240,"","",,Recibo Comprador,Quero Leiloar,18/12/2020,0.50,Melhoria,Planejado
+8239,"","",,Relatório Posição do Comprador,Quero Leiloar,11/12/2020,0.50,Melhoria,Planejado
+8238,"","",No,Filtro Somente Devedores Não está Func.,Quero Leiloar,11/12/2020,0.50,Correção,Planejado
+8234,"","","",[laravel-production] GuzzleHttp\Exception\ConnectException: cURL error 7: Failed to connect to projetos.kaisari.com.br port 443: Connection timed out (see https://curl.haxx.se/libcurl/c/libcurl-errors.html),Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8233,"","","",[laravel-production] GuzzleHttp\Exception\ConnectException: cURL error 28: Operation timed out after 10012 milliseconds with 0 bytes received (see https://curl.haxx.se/libcurl/c/libcurl-errors.html),Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8232,"","","",[laravel-production] GuzzleHttp\Exception\ConnectException: cURL error 28: Operation timed out after 10002 milliseconds with 0 bytes received (see https://curl.haxx.se/libcurl/c/libcurl-errors.html),Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8231,"","","",[laravel-production] GuzzleHttp\Exception\ConnectException: cURL error 28: Operation timed out after 10004 milliseconds with 0 bytes received (see https://curl.haxx.se/libcurl/c/libcurl-errors.html),Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8230,"","","",[laravel-production] GuzzleHttp\Exception\ConnectException: cURL error 28: Connection timed out after 10003 milliseconds (see https://curl.haxx.se/libcurl/c/libcurl-errors.html),Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8229,"","","",[laravel-production] Illuminate\Database\QueryException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution (SQL: select * from `app__companies` where `domain` = web or `subdomain` = web order by CASE,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8228,"","","",[laravel-production] GuzzleHttp\Exception\ConnectException: cURL error 28: Resolving timed out after 10004 milliseconds (see https://curl.haxx.se/libcurl/c/libcurl-errors.html),Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8222,Cesar Vieira,19/10/2020 05:16 PM,"",[laravel-production] E_NOTICE: Trying to get property 'script' of non-object,Quero Leiloar,16/10/2020,0.50,Bug,Andamento
+8203,"","","",[laravel-production] Swift_TransportException: Expected response code 354 but got an empty response,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8185,"","","",[laravel-production] ErrorException: Undefined property: stdClass::$upload,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8184,"","","",[vue-production] TypeError: this.$moment(...).hour(...).minute(...).format is not a function,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8182,"","","",[laravel-staging] E_NOTICE: Illuminate\Database\Connection::setPdo(): send of 5 bytes failed with errno=104 Connection reset by peer,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8181,"","","",[vue-production] SyntaxError: Unexpected string,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8179,"","","","[laravel-staging] Swift_TransportException: Expected response code 354 but got code ""550"", with message ""550 5.7.0 Requested action not taken: too many emails per second""",Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8177,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5.00-228756a0-ff36-11ea-9302-790ee7f5e759' for key 'leilao__lances.valor_peca_id' (SQL: insert into `leilao__lances` (`valor`, ",Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8176,"","","","[laravel-production] Illuminate\Database\QueryException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'valor' cannot be null (SQL: insert into `leilao__lance_automatico` (`valor`, `user_id`, `peca_id`, `ip`, `id`, `updated_at`, `created_at",Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8175,"","",Yes,Rastreio de objeto entregue,Controle Postal,11/12/2020,0.50,Correção,Planejado
+8162,"","","","[vue-production] NavigationDuplicated: Navigating to current location (""/efiltros/relatorios/sql/show/e880d6e0-018c-11eb-ab10-290febb9b2e7"") is not allowed",ERP Efiltros,16/10/2020,0.50,Bug,Planejado
+8145,"","","","[vue-staging] NavigationDuplicated: Navigating to current location (""/efiltros/relatorios/sql/show/7193d4d0-fe96-11ea-9757-b72c89ae6e02"") is not allowed",ERP Efiltros,16/10/2020,0.50,Bug,Planejado
+8144,"","","",[vue-production] ChunkLoadError: Loading chunk 13 failed. (error: https://maiarosa.com.br/assets/painel/js/13.9f7767fe51b0bde70726.js),Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8143,"","","","[vue-staging] NavigationDuplicated: Navigating to current location (""/efiltros/relatorios/sql/show/a7bc77c0-fe93-11ea-a873-f3149c7915a9"") is not allowed",ERP Efiltros,16/10/2020,0.50,Bug,Planejado
+8129,"","","",[laravel-production] Illuminate\Database\QueryException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution (SQL: select * from `app__companies` where `domain` = cloud.digitalocean.com or `subdomain` ,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8128,"","","",[laravel-production] Symfony\Component\ErrorHandler\Error\FatalError: Uncaught GuzzleHttp\Exception\ConnectException: cURL error 28: Resolving timed out after 10000 milliseconds (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) in /var/www/html/ven,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8127,"","","",[vue-production] TypeError: n.match is not a function,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8126,"","","",[vue-production] Error: Request failed with status code 504,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8124,"","","","[laravel-production] Aws\S3\Exception\S3Exception: Error executing ""PutObject"" on ""https://queroleiloar.nyc3.digitaloceanspaces.com/production/casafernandes/peca/12954-regata-branca-larga-tam-m/e7096220-fd32-11ea-9b33-81a92a253868-medium.jpg""; AWS HTTP er",Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8122,"","","",[vue-production] Error: timeout of 0ms exceeded,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8120,"","",,Deixar os lotes em destaque randômicos.,Quero Leiloar,11/12/2020,0.50,Melhoria,Planejado
+8114,Cesar Vieira,"",No,Banner - primeira compra,A Casa do Artista,11/12/2020,1.50,Melhoria,Andamento
+8112,"","",,Falta de organização nos lances,Quero Leiloar,11/12/2020,0.50,Correção,Planejado
+8110,"","","",[laravel-production] E_NOTICE: unserialize(): Error at offset 0 of 158 bytes,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8109,Cesar Vieira,08/12/2020 04:03 PM,"",[laravel-production] Illuminate\Http\Exceptions\ThrottleRequestsException: Too Many Attempts.,Quero Leiloar,16/10/2020,0.50,Bug,Rejeitado
+8107,"","",,"colocar ""como obrigação"" o cliente cadastrar endereçamento quando não tiver frete",A Casa do Artista,24/12/2020,1.00,Melhoria,Planejado
+8106,"","",,Verificar backup do banco de dados,A Casa do Artista,11/12/2020,0.50,Correção,Planejado
+8102,"","",Yes,METAcontrol - melhorias no módulo de follow-ups,Meta Control,11/12/2020,4.00,Melhoria,Planejado
+8095,"","","","[vue-production] Error: Navigation cancelled from ""/adm/relatorio/cliente_view/858269a0-9707-11ea-8fe1-2df8db050f47"" to ""/"" with a new navigation.",Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8089,"","","",[vue-production] TypeError: t.selection is null,Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8088,"","","","[vue-production] SyntaxError: expected expression, got '<'",Quero Leiloar,16/10/2020,0.50,Bug,Planejado
+8072,"","","",[vue-production] TypeError: Cannot read property 'parcelas_aberto' of undefined,ERP Efiltros,16/10/2020,0.50,Bug,Planejado
+8069,"","","",[vue-production] ReferenceError: dispatch is not defined,ERP Efiltros,16/10/2020,0.50,Bug,Planejado
+8067,"","","","[vue-production] NavigationDuplicated: Navigating to current location (""/efiltros/vendas/pedidos/edit/3ac127c0-b093-11ea-871a-675cd86d96ad"") is not allowed",ERP Efiltros,16/10/2020,0.50,Bug,Planejado
+8004,"","",,Validação campo Telefone,Quero Leiloar,11/12/2020,0.50,Melhoria,Planejado
+7914,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-production] E_NOTICE: Trying to get property 'cep' of non-object,Quero Leiloar,09/10/2020,0.50,Bug,Revisão
+7913,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-production] E_NOTICE: Trying to get property 'uf' of non-object,Quero Leiloar,09/10/2020,0.50,Bug,Revisão
+7912,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-production] E_NOTICE: Trying to get property 'municipio' of non-object,Quero Leiloar,09/10/2020,0.50,Bug,Revisão
+7911,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-production] E_NOTICE: Trying to get property 'bairro' of non-object,Quero Leiloar,09/10/2020,0.50,Bug,Revisão
+7910,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-production] E_NOTICE: Trying to get property 'complemento' of non-object,Quero Leiloar,09/10/2020,0.50,Bug,Revisão
+7909,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-production] E_NOTICE: Trying to get property 'numero' of non-object,Quero Leiloar,09/10/2020,0.50,Bug,Revisão
+7908,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-production] E_NOTICE: Trying to get property 'logradouro' of non-object,Quero Leiloar,09/10/2020,0.50,Bug,Revisão
+7907,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-production] E_NOTICE: Trying to get property 'cpf_cnpj' of non-object,Quero Leiloar,09/10/2020,0.50,Bug,Revisão
+7906,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-production] E_NOTICE: Trying to get property 'email' of non-object,Quero Leiloar,09/10/2020,0.50,Bug,Revisão
+7897,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-production] E_NOTICE: Trying to get property 'updated_at' of non-object,Quero Leiloar,09/10/2020,0.50,Bug,Revisão
+7891,"",10/09/2020 05:18 PM,"",[vue-production] Error: Request failed with status code 500,Quero Leiloar,04/09/2020,0.50,Bug,Planejado
+7858,"","",Yes,[41] (AGENDA) INCLUIR RECORRENCIAS NOS EVENTOS,ERP Efiltros,11/12/2020,1.00,Melhoria,Planejado
+7853,"","",Yes,[36] (PEDIDOS/PEDIDOS COMPRAS) INCLUIR CAMPO DESCONTO,ERP Efiltros,11/12/2020,0.50,Melhoria,Planejado
+7852,"","",Yes,[35] (PEDIDOS/PEDIDOS VENDAS) INCLUIR CAMPO DESCONTO,ERP Efiltros,11/12/2020,0.50,Melhoria,Planejado
+7850,"","",Yes,"[33] (VENDAS/COTAÇÃO) CRIAR REVISÃO(REV1) E CORREÇÃO PARA COTAÇÕES NO MOMENTO DA EDIÇÃO, COM PERGUNTA NO MOMENTO DO SALVAMENTO DEPOIS DA PRIMEIRA GRAVAÇÃO.",ERP Efiltros,11/12/2020,1.00,Melhoria,Andamento
+7849,"","",Yes,[32] (VENDAS/COTAÇÕES) CONFIGURAÇÃO DE CONDIÇÕES COMERCIAIS (TEXTOS FIXOS),ERP Efiltros,11/12/2020,0.50,Melhoria,Andamento
+7845,"","",Yes,[28] (COMPRAS/RECEBIMENTOS) AO REALIZAR O RECEBIMENTO VERIFICAR SE AS PARCELAS DE PAGAMENTO ESTÃO COM A MESMA DATA DE VENCIMENTO ,ERP Efiltros,11/12/2020,0.50,Melhoria,Planejado
+7834,"","",Yes,[17] (FINANCEIRO/BOLETOS) TRATAMENTO DE BOLETOS DESCONTADOS ONDE DEVEM APARECER NAS TRANSAÇÕES COMO DESCONTADOS,ERP Efiltros,11/12/2020,0.50,Melhoria,Planejado
+7833,"","",Yes,[16] (VENDAS/NOTAS FISCAIS) PARA PAGAMENTO A VISTA GERAR DESCRIÇÃO A VISTA DA DUPLICATA DANFE OU ENTRADA QUANDO TIVERMOS PARCELAS,ERP Efiltros,11/12/2020,0.50,Melhoria,Planejado
+7821,"","",Yes,"[04] (VENDAS/COTAÇÃO) FORMULÁRIO DE COTAÇÃO INCLUIR NCM, REDUZIR FONTES E MELHORAR ALINHAMENTOS",ERP Efiltros,11/12/2020,1.00,Melhoria,Andamento
+7817,"","",No,Desenvolvimentos ERP Efiltros,ERP Efiltros,"","",Projeto,Andamento
+7752,"",10/09/2020 05:18 PM,"",[vue-production] Error: Request failed with status code 404,Quero Leiloar,04/09/2020,0.50,Bug,Planejado
+7728,"","",,APARECER MENSAGEM DE SALVO COM SUCESSO QUANDO ALTERAR DIA E HORÁRIO,Quero Leiloar,11/12/2020,0.50,Melhoria,Planejado
+7703,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'cep' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7702,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'uf' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7701,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'municipio' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7700,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'bairro' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7699,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'complemento' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7698,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'numero' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7697,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'logradouro' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7696,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'cpf_cnpj' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7695,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'email' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7694,"",08/12/2020 04:33 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'telefone' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7693,"",08/12/2020 04:33 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'logo_url' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7692,"",08/12/2020 04:33 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'youtube' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7691,"",08/12/2020 04:33 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'linkedin' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7690,"",08/12/2020 04:33 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'twitter' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7689,"",08/12/2020 04:33 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'instagram' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7688,"",08/12/2020 04:33 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'facebook' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7687,"",17/08/2020 05:05 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'contato' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+7685,Cesar Vieira,08/12/2020 04:31 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'updated_at' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7684,"",17/08/2020 05:05 PM,"",[laravel-staging] E_NOTICE: Trying to get property 'name' of non-object,Quero Leiloar,11/12/2020,0.50,Bug,Planejado
+7683,Cesar Vieira,08/12/2020 03:44 PM,"",[laravel-staging] E_NOTICE: Undefined variable: tenant,Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7681,Cesar Vieira,08/12/2020 04:00 PM,"","[laravel-production] Swift_TransportException: Expected response code 354 but got code ""554"", with message ""554 5.5.1 Error: no valid recipients""",Quero Leiloar,11/12/2020,0.50,Bug,Revisão
+7651,"","",Yes,[38] (AGENDA) CRIAR BUSCA POR TITULOS NA AGENDA,ERP Efiltros,11/12/2020,0.50,Melhoria,Planejado
+7596,Cesar Vieira,25/08/2020 04:13 PM,"",[vue-production] TypeError: Cannot read property 'id' of undefined,ERP Efiltros,14/08/2020,0.50,Bug,Planejado
+7453,Cesar Vieira,31/08/2020 08:24 PM,"",[vue-production] TypeError: Cannot read property 'getTiles' of undefined,ERP Efiltros,14/08/2020,0.50,Bug,Planejado
+6478,"","",No,Loja para Cursos,A Casa do Artista,"",3.00,Melhoria,Espera
+6477,"","",No,Tradução de alguns itens no paniel (ex. VAT),A Casa do Artista,"",1.50,Melhoria,Espera
+6476,"","",No,Importação de clientes,A Casa do Artista,"",2.00,Tarefa,Espera
+6473,"","",No,Cancelamento Cielo - Parcial,A Casa do Artista,"",3.00,Melhoria,Espera
+6455,"",10/09/2020 05:18 PM,"",[vue-production] ReferenceError: io is not defined,Quero Leiloar,04/09/2020,0.50,Bug,Planejado
+6295,"","",No,Inserir campo para preenchimento de cubagem e peso,Quero Leiloar,18/12/2020,0.50,Melhoria,Planejado
+6292,Cesar Vieira,"",No,Fechar pedidos pelo winthor,A Casa do Artista,11/12/2020,2.50,Melhoria,Andamento
+6280,"","",,TÓPICOS TI - QUERO LEILOAR,Quero Leiloar,"","",Projeto,Andamento
+6125,"","",,Recurso de zoom na image,Quero Leiloar,18/12/2020,1.00,Melhoria,Planejado
+5199,"","",No,Loja para Cursos,A Casa do Artista,31/12/2020,5.00,Melhoria,Planejado
+5198,"","",,Tradução de alguns itens no paniel (ex. VAT),A Casa do Artista,24/12/2020,0.50,Melhoria,Planejado
+5197,"","",,Importação de clientes,A Casa do Artista,24/12/2020,2.00,Melhoria,Planejado
+5194,"","",,Link para Instagram,A Casa do Artista,24/12/2020,0.50,Melhoria,Planejado
+5193,"","",,FTP,A Casa do Artista,18/12/2020,1.00,Melhoria,Planejado
+5093,"","",,Nota de Arrematação,Quero Leiloar,11/12/2020,1.00,Melhoria,Planejado
+4230,"","",No,QUERO LEILOAR,Quero Leiloar,"","",Projeto,Andamento
+4153,"","",No,Usuário dono do lote não pode dar lance no leilão,Quero Leiloar,11/12/2020,1.00,Melhoria,Planejado
+4152,"","",No,"Botão ""RETIRAR RESERVA"" (PREÇO CONTRATADO)",Quero Leiloar,11/12/2020,1.00,Melhoria,Planejado
+4151,"","",No,Sexta-feira 01/11/2019,Quero Leiloar,"","",Projeto,Andamento
+3849,"","",No,Popup,A Casa do Artista,24/12/2020,0.50,Melhoria,Planejado
+3842,"","",No,Programa de Fidelidade,A Casa do Artista,18/12/2020,4.00,Melhoria,Planejado
+3831,"","",Yes,Novo projeto em Magento 2,A Casa do Artista,"",64.00,Projeto,Andamento
