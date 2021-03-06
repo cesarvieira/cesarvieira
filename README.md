@@ -43,10 +43,7 @@ Automate and facilitate processes and procedures, this is the focus.
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Vue.js       1 hr 53 mins    ███████████████████████▒░   93.13 % 
-JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-PHP          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
