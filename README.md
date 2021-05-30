@@ -43,11 +43,7 @@ Automate and facilitate processes and procedures, this is the focus.
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-PHP                        29 mins         ████████▒░░░░░░░░░░░░░░░░   33.85 % 
-Other                      23 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.15 % 
-JavaScript                 10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Nginx configuration file   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-JSON                       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
