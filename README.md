@@ -42,7 +42,7 @@ Automate and facilitate processes and procedures, this is the focus.
 :zap: Message me at [WhatsApp](https://wa.me/5511961206260)
 
 ## Stats
-[![wakatime](https://wakatime.com/badge/user/e13c4c79-1f01-4b58-b049-86224856639d.svg)](https://wakatime.com/@e13c4c79-1f01-4b58-b049-86224856639d) avarage daily in Matrix World  
+[![wakatime](https://wakatime.com/badge/user/e13c4c79-1f01-4b58-b049-86224856639d.svg)](https://wakatime.com/@e13c4c79-1f01-4b58-b049-86224856639d) Living in Matrix World  
 
 [![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=cesarvieira&hide=issues,stars&count_private=true&show_icons=true)](https://github.com/cesarvieira/cesarvieira) 
 
