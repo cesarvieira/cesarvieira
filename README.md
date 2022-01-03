@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cesarvieira.visitor-badge)
 
 Welcome to my page!
-I'm Cesar, a Husband, Father and Fullstack developer from **São Paulo, Brazil** <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/>  
+I'm Cesar, a Husband, Father and Fullstack developer from **São Paulo, Brazil** <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20"/>  
 
 <img align="right" alt="GIF" src="https://github.com/cesarvieira/cesarvieira/blob/master/code.gif?raw=true" width="500" height="320" />
 
