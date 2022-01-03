@@ -38,7 +38,7 @@ Automate and facilitate processes and procedures, this is the focus.
 
 ## How to reach me
 :handshake: Connect with me on [Linkedin](https://www.linkedin.com/in/cesarvieira-programador/)  
-Message me at [Telegram](https://t.me/cesar_kaisari)  
+:mailbox: Message me at [Telegram](https://t.me/cesar_kaisari)  
 :zap: Message me at [WhatsApp](https://wa.me/5511961206260)
 
 ## Stats
