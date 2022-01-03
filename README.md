@@ -33,12 +33,18 @@ Automate and facilitate processes and procedures, this is the focus.
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/>
 
+### Spotify Playing 🎧
+[![Spotify](https://spotify-now-playing.cesarvieira.vercel.app/api/spotify)](https://open.spotify.com/user/22wy4x6sczc4gbqqeih752rla)
+
 ## How to reach me
 :handshake: Connect with me on [Linkedin](https://www.linkedin.com/in/cesarvieira-programador/)  
+Message me at [Telegram](https://t.me/cesar_kaisari)  
 :zap: Message me at [WhatsApp](https://wa.me/5511961206260)
 
 ## Stats
-[![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=cesarvieira&hide=issues,stars&count_private=true&show_icons=true)](https://github.com/cesarvieira/cesarvieira)
+[![wakatime](https://wakatime.com/badge/user/e13c4c79-1f01-4b58-b049-86224856639d.svg)](https://wakatime.com/@e13c4c79-1f01-4b58-b049-86224856639d) avarage daily in Matrix World  
+
+[![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=cesarvieira&hide=issues,stars&count_private=true&show_icons=true)](https://github.com/cesarvieira/cesarvieira) 
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
@@ -50,6 +56,3 @@ JSON             43 mins         █▓░░░░░░░░░░░░░�
 INI              30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 ```
 <!--END_SECTION:waka-->
-
-### Spotify Playing 🎧
-[![Spotify](https://spotify-now-playing.cesarvieira.vercel.app/api/spotify)](https://open.spotify.com/user/22wy4x6sczc4gbqqeih752rla)
