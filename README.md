@@ -7,7 +7,7 @@ I'm Cesar, a Husband, Father and Fullstack developer from **São Paulo, Brazil**
 <img align="right" alt="GIF" src="https://github.com/cesarvieira/cesarvieira/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## About Me:  :alien:
-I love to understand how things work and how to improve them. Working with code for the last 15 years.  
+I love to understand how things work and how to improve them. Working with code for the last 16 years.  
 I like to learn and talk about everything, if it's something I don't know, I'll be happy to learn.  
 Started to code with MS Basic with 13 years old, yah MS Basic in an green screen.  
 Automate and facilitate processes and procedures, this is the focus.
