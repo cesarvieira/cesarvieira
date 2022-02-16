@@ -49,6 +49,8 @@ Automate and facilitate processes and procedures, this is the focus.
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
+Total: 38 hrs 50 mins
+
 TypeScript       15 hrs 52 mins  ██████████▒░░░░░░░░░░░░░░   40.86 % 
 PHP              11 hrs 47 mins  ███████▓░░░░░░░░░░░░░░░░░   30.36 % 
 Vue.js           4 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
