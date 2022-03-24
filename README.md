@@ -48,12 +48,12 @@ Automate and facilitate processes and procedures, this is the focus.
 <!--START_SECTION:waka-->
 
 ```text
-PHP                        8 hrs 17 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
-TypeScript                 6 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   20.51 %
-Vue.js                     5 hrs 55 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-JSON                       2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-JavaScript                 2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-YAML                       1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+PHP                        7 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
+TypeScript                 5 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+Vue.js                     5 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+YAML                       4 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+JSON                       2 hrs 59 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+JavaScript                 2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
 ```
 
 <!--END_SECTION:waka-->
