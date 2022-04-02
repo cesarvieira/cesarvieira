@@ -48,12 +48,12 @@ Automate and facilitate processes and procedures, this is the focus.
 <!--START_SECTION:waka-->
 
 ```text
-PHP                        5 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   32.49 %
-TypeScript                 4 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   29.46 %
-JavaScript                 1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Blade Template             1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-YAML                       56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-.env file                  46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+TypeScript                 5 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   39.78 %
+PHP                        3 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
+Blade Template             1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+JavaScript                 59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+YAML                       51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+JSON                       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
