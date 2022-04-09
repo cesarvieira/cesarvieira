@@ -48,12 +48,12 @@ Automate and facilitate processes and procedures, this is the focus.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       4 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   43.03 %
-Blade Template   1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-JavaScript       59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-JSON             48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Bash             35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Vue.js           28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+TypeScript       2 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.02 %
+JavaScript       57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+JSON             47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Blade Template   39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Bash             28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+HTML             25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
