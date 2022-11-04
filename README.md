@@ -48,12 +48,12 @@ Automate and facilitate processes and procedures, this is the focus.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       3 hrs 37 mins   >>>>>>>>>>>>>------------   53.46 %
-PHP              1 hr 43 mins    >>>>>>-------------------   25.32 %
-Blade Template   27 mins         >>-----------------------   06.72 %
-Docker           19 mins         >------------------------   04.68 %
-Vue.js           18 mins         >------------------------   04.54 %
-YAML             6 mins          -------------------------   01.55 %
+PHP              4 hrs 2 mins    >>>>>>>>>>>--------------   42.14 %
+TypeScript       3 hrs 43 mins   >>>>>>>>>>---------------   38.84 %
+Blade Template   27 mins         >------------------------   04.75 %
+Docker           26 mins         >------------------------   04.56 %
+Vue.js           18 mins         >------------------------   03.22 %
+YAML             18 mins         >------------------------   03.15 %
 ```
 
 <!--END_SECTION:waka-->
