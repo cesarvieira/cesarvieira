@@ -48,12 +48,12 @@ Automate and facilitate processes and procedures, this is the focus.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       4 hrs 52 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.19 %
-JSON             19 mins         >>-----------------------   06.07 %
-GraphQL          4 mins          -------------------------   01.52 %
-Bash             2 mins          -------------------------   00.67 %
-Vue.js           1 min           -------------------------   00.37 %
-GitIgnore file   0 secs          -------------------------   00.18 %
+TypeScript       6 hrs 41 mins   >>>>>>>>>>>>>>>>>--------   67.76 %
+Vue.js           2 hrs 27 mins   >>>>>>-------------------   24.87 %
+JSON             21 mins         >------------------------   03.55 %
+.env file        12 mins         >------------------------   02.12 %
+GraphQL          5 mins          -------------------------   00.88 %
+Bash             2 mins          -------------------------   00.38 %
 ```
 
 <!--END_SECTION:waka-->
