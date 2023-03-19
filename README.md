@@ -48,7 +48,8 @@ Automate and facilitate processes and procedures, this is the focus.
 <!--START_SECTION:waka-->
 
 ```text
-Other        1 hr 11 mins    >>>>>--------------------   21.19 %
+TypeScript   1 hr 14 mins    >>>>---------------------   17.61 %
+Other        1 hr 11 mins    >>>>---------------------   16.82 %
 ```
 
 <!--END_SECTION:waka-->
