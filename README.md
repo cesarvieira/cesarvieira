@@ -48,11 +48,11 @@ Automate and facilitate processes and procedures, this is the focus.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       14 hrs 14 mins  >>>>>>>>>>>>>>>----------   61.39 %
-Vue.js           2 hrs 36 mins   >>>----------------------   11.24 %
-Blade Template   1 hr 54 mins    >>-----------------------   08.24 %
-JSON             1 hr 24 mins    >>-----------------------   06.03 %
-JavaScript       49 mins         >------------------------   03.55 %
+TypeScript       17 hrs 19 mins  >>>>>>>>>>>>>>>>>>-------   71.09 %
+Vue.js           2 hrs 11 mins   >>-----------------------   09.01 %
+JSON             1 hr 17 mins    >------------------------   05.27 %
+Blade Template   1 hr 6 mins     >------------------------   04.54 %
+PHP              43 mins         >------------------------   02.98 %
 ```
 
 <!--END_SECTION:waka-->
