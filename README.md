@@ -1,6 +1,5 @@
 # Hey, nice to see you  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
-<a href='http://www.freevisitorcounters.com'>www.freevisitorcounters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d3c541d4f980b603e35d6653656f517d69c24809'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1246232/t/11"></script>
+
 
 Welcome to my page!
 I'm Cesar, a Husband, Father and Fullstack developer from **São Paulo, Brazil** <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20"/>  
