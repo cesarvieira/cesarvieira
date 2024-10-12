@@ -49,8 +49,9 @@ Automate and facilitate processes and procedures, this is the focus.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          39 mins         >>>>>>>>>>>>>>>>>>>------   75.78 %
-TypeScript   12 mins         >>>>>>-------------------   24.22 %
+PHP          39 mins         >>>>>>>>>>>>>>>----------   60.12 %
+TypeScript   25 mins         >>>>>>>>>>---------------   39.22 %
+JSON         0 secs          -------------------------   00.66 %
 ```
 
 <!--END_SECTION:waka-->
