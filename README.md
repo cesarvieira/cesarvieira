@@ -49,11 +49,11 @@ Automate and facilitate processes and procedures, this is the focus.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          4 hrs 8 mins    >>>>>>>>>>>>>>>>>>>>-----   81.75 %
-TypeScript   16 mins         >------------------------   05.32 %
-XML          13 mins         >------------------------   04.35 %
-SQL          10 mins         >------------------------   03.42 %
-YAML         7 mins          >------------------------   02.31 %
+PHP          4 hrs 27 mins   >>>>>>>>>>>>>>>>>>>>>----   84.41 %
+XML          13 mins         >------------------------   04.17 %
+YAML         12 mins         >------------------------   03.99 %
+SQL          10 mins         >------------------------   03.28 %
+Bash         5 mins          -------------------------   01.69 %
 ```
 
 <!--END_SECTION:waka-->
