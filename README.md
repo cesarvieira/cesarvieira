@@ -50,8 +50,8 @@ Automate and facilitate processes and procedures, this is the focus.
 
 ```txt
 Blade Template   9 hrs 15 mins   >>>>>>>>>>>>-------------   46.88 %
-PHP              5 hrs 15 mins   >>>>>>>------------------   26.63 %
-TypeScript       2 hrs 37 mins   >>>----------------------   13.26 %
+PHP              5 hrs 15 mins   >>>>>>>------------------   26.61 %
+TypeScript       2 hrs 37 mins   >>>----------------------   13.27 %
 Vue.js           41 mins         >------------------------   03.48 %
 YAML             37 mins         >------------------------   03.17 %
 ```
