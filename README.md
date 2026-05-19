@@ -51,7 +51,7 @@ Automate and facilitate processes and procedures, this is the focus.
 ```txt
 YAML                               4 hrs 54 mins         >>>>>--------------------   18.64 %
 TypeScript                         4 hrs 50 mins         >>>>>--------------------   18.38 %
-C#                                 4 hrs 14 mins         >>>>---------------------   16.06 %
+C#                                 4 hrs 13 mins         >>>>---------------------   16.05 %
 PHP                                2 hrs 12 mins         >>-----------------------   08.40 %
 Vue                                2 hrs 2 mins          >>-----------------------   07.77 %
 ```
